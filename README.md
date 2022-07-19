@@ -14,4 +14,4 @@
 
 주차 수 | 알고리즘 분류 | 스터디 내용 
 :-: | :-: | :-: 
-1주차 | 스택 | [보러가기](https://github.com/congcoding/ProgrammersStudy/tree/main/%EB%B9%88%EC%A0%95%EC%9B%90) | [보러가기]
+1주차 | 스택 | [보러가기](https://github.com/hye0e/code-lion-study/tree/main/stack) | [보러가기]
