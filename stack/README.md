@@ -1,4 +1,4 @@
-### 3주차 (22.07.18)
+### 1주차 (22.07.18)
 유형 | 제목 | 풀이
 :-: | :-: | :-:
 스택 |[스택수열](https://www.acmicpc.net/problem/1874) | [🔗](https://github.com/hye0e/code-lion-study/blob/main/stack/1874.py)
