@@ -15,3 +15,5 @@
 주차 수 | 알고리즘 분류 | 스터디 내용 
 :-: | :-: | :-: 
 1주차 | 스택 | [보러가기](https://github.com/hye0e/code-lion-study/tree/main/stack) | [보러가기]
+2주차 | 재귀 | [보러가기](https://github.com/hye0e/code-lion-study/tree/main/stack) | [보러가기]
+

@@ -21,11 +21,6 @@ def check(x, y, n):
     return True
 
 def cut(x, y, n):
-    print('===============')
-    print('x = ', x)
-    print('y = ', y)
-    print('n = ', n)
-    print('===============')
     # 9개 모두 같으면
     if check(x, y, n):
         result[color[x][y]] += 1
@@ -41,4 +36,4 @@ cut(0, 0, N)
 print(result)
 
 
-
+ 
